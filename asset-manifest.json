@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mellyeliu.me/static/css/main.5facb584.chunk.css",
+    "main.js": "/mellyeliu.me/static/js/main.3991a132.chunk.js",
+    "main.js.map": "/mellyeliu.me/static/js/main.3991a132.chunk.js.map",
+    "runtime-main.js": "/mellyeliu.me/static/js/runtime-main.4cf83905.js",
+    "runtime-main.js.map": "/mellyeliu.me/static/js/runtime-main.4cf83905.js.map",
+    "static/css/2.2a873c25.chunk.css": "/mellyeliu.me/static/css/2.2a873c25.chunk.css",
+    "static/js/2.5cf0b693.chunk.js": "/mellyeliu.me/static/js/2.5cf0b693.chunk.js",
+    "static/js/2.5cf0b693.chunk.js.map": "/mellyeliu.me/static/js/2.5cf0b693.chunk.js.map",
+    "index.html": "/mellyeliu.me/index.html",
+    "precache-manifest.eabe1b22e6f9ed501ea9d47600210bdd.js": "/mellyeliu.me/precache-manifest.eabe1b22e6f9ed501ea9d47600210bdd.js",
+    "service-worker.js": "/mellyeliu.me/service-worker.js",
+    "static/css/2.2a873c25.chunk.css.map": "/mellyeliu.me/static/css/2.2a873c25.chunk.css.map",
+    "static/css/main.5facb584.chunk.css.map": "/mellyeliu.me/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.5cf0b693.chunk.js.LICENSE.txt": "/mellyeliu.me/static/js/2.5cf0b693.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cf83905.js",
+    "static/css/2.2a873c25.chunk.css",
+    "static/js/2.5cf0b693.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.3991a132.chunk.js"
+  ]
+}

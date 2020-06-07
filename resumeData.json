@@ -1,0 +1,189 @@
+{
+  "main": {
+    "name":"Melissa Liu",
+    "occupation":"developer",
+    "description":"Placeholder text for now while I figure out what to put",
+    "image":"profilepic.jpg",
+    "bio": "",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "mellye.liu@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"San Francisco",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/mellye.liu",
+        "className":"fab fa-facebook-f"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/mellyeliu",
+        "className":"fab fa-linkedin-in"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/mellyeliu",
+        "className":"fab fa-github"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/mellye.liu",
+        "className":"fab fa-b fa-instagram"
+      },
+      {
+        "name":"resume",
+        "url":"https://www.linkedin.com/mellyeliu",
+        "className":"far fa-file-alt"
+      }
+    ],
+    "photos":[
+      {
+        "place":"los angeles",
+        "date":"02·17·2020",
+        "image":"headeraa-min.jpg"
+      },
+      {
+        "place":"miami",
+        "date":"04·23·2019",
+        "image":"headerdd-min.jpg"
+      },
+      {
+        "place":"niagara falls",
+        "date":"01·04·2019",
+        "image":"headerbb-min.jpg"
+      },
+      {
+        "place":"san francisco",
+        "date":"12·10·2018",
+        "image":"headercc-min.jpg"
+      },
+      {
+        "place":"blue mountain",
+        "date":"12·23·2019",
+        "image":"headeree-min.jpg"
+      }
+    ]
+  },
+  "blog":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "work":[
+      {
+        "company":"My Two Weeks in Quarantine",
+        "title":"Growth: Notifications",
+        "years":"April 2020",
+        "type":"Reflection",
+        "image":"images/blog1.jpg",
+        "id": "1",
+        "description":"This is a journal recording my thoughts throughout the COVID-19 pandemic and the things I learn during my two week quarantine."
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "work":[
+      {
+        "company":"Instagram",
+        "title":"Growth: Notifications",
+        "years":"Jan 2020 - Apr 2020",
+        "image":"worktest.jpg",
+        "description":"Under the IG Growth org, I worked on developing notifications around Story Highlights and Direct Inbox to drive user growth. Using Django, I created a data pipeline to pull eligible users and notify them of certain events. I conducted A/B testing to measure MAP gain and minimize reachability loss."
+      },
+      {
+        "company":"Credit Karma",
+        "title":"Credit Experiences",
+        "years":"May 2019 - Aug 2019",
+        "image":"pro3-min.jpg",
+        "description":"Collections are common, high-impact debts that severely drops a user’s credit score. To address this, I created a new experience in Scala, React, and GraphQL to notify users of their collections and how to resolve them. I also built a contextual backlinking framework by passing location states within page queries. "      
+      }
+    ],
+    "education":[
+      {
+        "school":"University of Waterloo",
+        "degree":"BASc in Biomedical Engineering",
+        "graduated":"Sept 2016 - present",
+        "description":"Placeholder text for now."
+      }
+    ],
+    "blog":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"04.02.2020",
+        "description":"this is the journal recording my thoughts throughout the COVID-19 pandemic and the things I learn during my two week quarantine. to all of you, stay safe & much love."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Personal Website",
+        "category":"Space for self-expression and documentation. Work in progress!",
+        "languages": "React (and some questionable CSS practices)",
+        "image":"proj1b-min.png",
+        "url":""
+      },
+      {
+        "title":"Solon",
+        "category":"Sensor pad and mobile app to assess general health and monitor urinary incontinence",
+        "languages": "Android (Java), SQLite, Arduino",
+        "image":"proj1-min.jpg",
+        "url":"https://github.com/mellyeliu/Solon"
+      },
+      {
+        "title":"Brand Insights Snapshots",
+        "category":"Site that aggregates and displays brand demographic insights.",
+        "languages": "Django",
+        "image":"proj4-min.png",
+        "url":"https://snapshot.numerator.com/brand/tide"
+      },
+      {
+        "title":"Sonar Detection System",
+        "category":"Sonar system using ultrasound sensor data to predict object distance, angle, and shape.",
+        "languages": "Arduino, Python (matplotlib)",
+        "image":"proj5-min.png",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Fake News Detector",
+        "category":"Fake news predictor using an LSTM network with word embeddings",
+        "languages": "Python (keras, sklearn)",
+        "image":"proj3-min.png",
+        "url":"https://github.com/NgAngus/FakeNewsDetector"
+      },
+      {
+        "title":"Freezing of Gait Detector",
+        "category":"Wearable device using acceleration data to detect FOG episodes real time",
+        "languages":"Matlab, Arduino",
+        "image":"proj6-min.png",
+        "url":""
+      }
+    ],
+    "art": [
+      {
+        "title":"Personal Website",
+        "image":"artaa-edit-min.jpg"
+      },
+      {
+        "title":"Solon",
+        "image":"art3.jpg"
+      },
+      {
+        "title":"Solon",
+        "image":"art2.jpg"
+      }
+    ]
+  }
+}
