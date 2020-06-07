@@ -3,7 +3,7 @@
     "name":"Melissa Liu",
     "occupation":"developer",
     "description":"Placeholder text for now while I figure out what to put",
-    "image":"profilepic.jpg",
+    "image":"profilepic.JPG",
     "bio": "",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "mellye.liu@gmail.com",
@@ -47,27 +47,27 @@
       {
         "place":"los angeles",
         "date":"02·17·2020",
-        "image":"headeraa-min.jpg"
+        "image":"headeraa-min.JPG"
       },
       {
         "place":"miami",
         "date":"04·23·2019",
-        "image":"headerdd-min.jpg"
+        "image":"headerdd-min.JPG"
       },
       {
         "place":"niagara falls",
         "date":"01·04·2019",
-        "image":"headerbb-min.jpg"
+        "image":"headerbb-min.JPG"
       },
       {
         "place":"san francisco",
         "date":"12·10·2018",
-        "image":"headercc-min.jpg"
+        "image":"headercc-min.JPG"
       },
       {
         "place":"blue mountain",
         "date":"12·23·2019",
-        "image":"headeree-min.jpg"
+        "image":"headeree-min.JPG"
       }
     ]
   },
@@ -79,7 +79,7 @@
         "title":"Growth: Notifications",
         "years":"April 2020",
         "type":"Reflection",
-        "image":"images/blog1.jpg",
+        "image":"images/blog1.JPG",
         "id": "1",
         "description":"This is a journal recording my thoughts throughout the COVID-19 pandemic and the things I learn during my two week quarantine."
       }
@@ -92,14 +92,14 @@
         "company":"Instagram",
         "title":"Growth: Notifications",
         "years":"Jan 2020 - Apr 2020",
-        "image":"worktest.jpg",
+        "image":"worktest.JPG",
         "description":"Under the IG Growth org, I worked on developing notifications around Story Highlights and Direct Inbox to drive user growth. Using Django, I created a data pipeline to pull eligible users and notify them of certain events. I conducted A/B testing to measure MAP gain and minimize reachability loss."
       },
       {
         "company":"Credit Karma",
         "title":"Credit Experiences",
         "years":"May 2019 - Aug 2019",
-        "image":"pro3-min.jpg",
+        "image":"pro3-min.JPG",
         "description":"Collections are common, high-impact debts that severely drops a user’s credit score. To address this, I created a new experience in Scala, React, and GraphQL to notify users of their collections and how to resolve them. I also built a contextual backlinking framework by passing location states within page queries. "      
       }
     ],
@@ -139,7 +139,7 @@
         "title":"Solon",
         "category":"Sensor pad and mobile app to assess general health and monitor urinary incontinence",
         "languages": "Android (Java), SQLite, Arduino",
-        "image":"proj1-min.jpg",
+        "image":"proj1-min.JPG",
         "url":"https://github.com/mellyeliu/Solon"
       },
       {
@@ -174,15 +174,15 @@
     "art": [
       {
         "title":"Personal Website",
-        "image":"artaa-edit-min.jpg"
+        "image":"artaa-edit-min.JPG"
       },
       {
         "title":"Solon",
-        "image":"art3.jpg"
+        "image":"art3.JPG"
       },
       {
         "title":"Solon",
-        "image":"art2.jpg"
+        "image":"art2.JPG"
       }
     ]
   }
